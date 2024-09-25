@@ -1,4 +1,4 @@
-
+[![Assignment 4 Gitlab/Github Actions Matrix Build for Multiple Python Versions](https://github.com/nogibjj/Cindy_Gao_Matrix_Build/actions/workflows/actions.yml/badge.svg)](https://github.com/nogibjj/Cindy_Gao_Matrix_Build/actions/workflows/actions.yml)
 # Cindy_Gao_Matrix_Build
 
 - .devcontainer: It sets up a consistent development environment across different machines.
@@ -16,6 +16,9 @@
 # Purpose for this project:
 1. Set up a Gitlab Actions workflow
 2. Test across at least 3 different Python versions
+The Github Action results:
+<img width="356" alt="image" src="https://github.com/user-attachments/assets/50a75702-14c2-4d66-b851-4b313fb7add9">
+
 
 
 # Url to the raw data:
