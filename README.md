@@ -1,5 +1,5 @@
-[![Assignment 1 Python Application Test with Github Actions from Cindy](https://github.com/nogibjj/Cindy_Gao_pandas_descriptive/actions/workflows/actions.yml/badge.svg)](https://github.com/nogibjj/Cindy_Gao_pandas_descriptive/actions/workflows/actions.yml)
-# Cindy_Gao_pandas_descriptive
+
+# Cindy_Gao_Matrix_Build
 
 - .devcontainer: It sets up a consistent development environment across different machines.
 - .github/workflows: It defines automated workflows for CI/CD tasks
