@@ -15,7 +15,7 @@
 
 # Purpose for this project:
 1. Set up a Gitlab Actions workflow
-2. Test across at least 3 different Python versions
+2. Test across at least 3 different Python versions <br><br>
 The Github Action results:
 <img width="356" alt="image" src="https://github.com/user-attachments/assets/50a75702-14c2-4d66-b851-4b313fb7add9">
 
