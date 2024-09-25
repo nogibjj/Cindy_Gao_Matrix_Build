@@ -1,0 +1,14 @@
+#devops
+black ==24.8.0
+click ==8.1.7
+pytest ==8.3.3
+pytest-cov ==5.0.0
+pylint ==3.2.7
+boto3 ==1.35.19
+numpy
+pandas #==2.2.2
+matplotlib #==3.9.2
+
+#web
+fastapi ==0.114.2
+unicorn ==2.0.1.post1
